@@ -6,7 +6,6 @@ This project is an **AI-powered personal assistant** designed to help users perf
 ## Features
 - **Voice & Text Commands** – Users can interact with the assistant through voice or text.  
 - **Email & Messaging** – Send emails and messages directly via the assistant.  
-- **Call Functionality** – Initiate calls through voice commands.  
 - **YouTube Video Summarization** – Get quick summaries of YouTube videos.  
 - **Google, Jumia & Wikipedia Search** – Retrieve relevant information from various platforms.  
 - **Image-to-Text Recognition** – Extract and explain text from images.  
